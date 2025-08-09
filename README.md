@@ -1,9 +1,24 @@
-## Skills
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+# Hi, ich bin Danielle 👋
+
+Roblox Scripter • CTF/Websec • Competitive Programming
+
+## 🚀 Aktuell
+- Commissions in Roblox Studio through hiddendevs
+- Trainiere: Web-Exploits & Networking (CTFs)
+- Competitive: Codeforces & Codingame
+
+## 🧰 Tech
+![Lua](https://img.shields.io/badge/Lua-2C2D72)
+![TS](https://img.shields.io/badge/TypeScript-3178C6)
+![Node](https://img.shields.io/badge/Node.js-339933)
+![Python](https://img.shields.io/badge/Python-3776AB)
+
+## 🎮 Roblox Projekte
+## 🧑‍💻 CTF Writeups
+## 🧠 Competitive Programming
+
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=enzian120&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzian120&layout=compact)
+

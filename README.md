@@ -26,4 +26,4 @@ Roblox Scripter • CTF/Websec • Competitive Programming
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=enzian120&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzian120&layout=compact)
-
+![Type Racer](https://data.typeracer.com/misc/badge?user=havfdeco)

@@ -1,4 +1,4 @@
-# Hi, ich bin Danielle 👋
+# Hi, ich bin Daniel 👋
 
 Roblox Scripter • CTF/Websec • Competitive Programming
 
